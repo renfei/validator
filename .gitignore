@@ -1,0 +1,10 @@
+.idea/
+out/
+target/
+.idea_modules/
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
