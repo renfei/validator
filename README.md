@@ -1,5 +1,11 @@
 # Validator 验证器
 
+[![Maven Central](https://img.shields.io/maven-central/v/net.renfei/validator.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22net.renfei%22%20AND%20a:%22validator%22)
+
+在日常开发中总需要验证用户的数据是否正确，数据可能来自输入、可能来自导入，如果是庞大的对象校验起来，难道需要一串 ```if(){}else{}``` 嵌套判断吗？
+
+这个验证器诞生了，就是为了防止 ```if``` 嵌套去校验对象，形成代码屎山。虽然我擅长在屎山上雕花。
+
 ## 使用
 
 Maven项目可添加引用：
